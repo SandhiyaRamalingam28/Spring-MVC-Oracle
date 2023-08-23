@@ -36,8 +36,8 @@ http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 			value="oracle.jdbc.OracleDriver" />
 		<property name="url"
 			value="jdbc:oracle:thin:@10.100.7.135:1532:SOMPO" />
-		<property name="username" value="SOMPODEV_DETARIFF" />
-		<property name="password" value="dev_dariff12345" />
+		<property name="username" value="*******" />
+		<property name="password" value="*******" />
 		<property name="initialSize" value="15" />
 		<property name="minIdle" value="8" />
 		<property name="maxIdle" value="15" />
